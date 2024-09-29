@@ -1,0 +1,9 @@
+streamlit
+torch
+Pillow
+transformers
+qwen-vl-utils
+pdf2image 
+qwen-vl-utils 
+torchvision
+torchaudio
