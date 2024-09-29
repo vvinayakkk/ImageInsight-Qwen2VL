@@ -11,7 +11,6 @@ def load_model():
     return model, processor
 
 model, processor = load_model()
-
 st.title("Image Query App")
 
 uploaded_file = st.file_uploader("Choose an image...", type=["jpg", "jpeg", "png"])
