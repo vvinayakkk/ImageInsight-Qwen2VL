@@ -94,6 +94,8 @@ Here are a few examples showcasing the power of VisionQueryMaster:
  - **Sample Image 1**: ![image](https://github.com/user-attachments/assets/a4c38c5d-089c-4308-a5b6-2da1968dbd65)
  - **Result**:![Screenshot 2024-09-30 020444](https://github.com/user-attachments/assets/16aa960c-9412-420b-8942-2aea6b257cba)
 
+## Try It Out
+To try out the model, [**Click Here**](https://huggingface.co/spaces/vvinayakkk/fourthtry).
 
 ## Future Enhancements
 a) Live Webcam Capture: Integration of live webcam feed for real-time OCR and question answering.
