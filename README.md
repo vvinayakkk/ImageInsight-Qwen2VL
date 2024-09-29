@@ -77,7 +77,7 @@ Ensure that you have the following installed on your system:
 3. Run the Application To launch the web application locally, execute:
     ```bash
       
-      python app.py
+    streamlit run app.py
 
 4. Ensure your system has at least 16GB of RAM for smooth execution. You can check available RAM by creating a sample file test_ram.py and running the file with the following code:
     ```bash 
