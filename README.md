@@ -61,9 +61,9 @@ Ensure that you have the following installed on your system:
 - Python 3.7 or higher
 - PyTorch 1.11 or higher
 - Huggingface Transformers library
-- Gradio for web-based interface
+- Streamlit for web-based interface
 
-### Setup Instructions
+## Setup Instructions
 
 1. **Clone the Repository**
    ```bash
@@ -86,19 +86,21 @@ Ensure that you have the following installed on your system:
     print(f"Total RAM: {psutil.virtual_memory().total / 1024**2:.2f} MB")
     print(f"Available RAM: {psutil.virtual_memory().available / 1024**2:.2f} MB")
 
-5. Deployment
+## Deployment
 For deployment on a cloud platform, ensure you have a GPU-enabled environment or modify the max_new_tokens parameter to 180 for CPU compatibility. Detailed instructions for deploying on platforms like Hugging Face and Streamlit can be found here. Link: https://huggingface.co/docs/hub/en/spaces-sdks-stream
 
-6. Sample Outputs and Screenshots
+## Sample Outputs and Screenshots
 Here are a few examples showcasing the power of VisionQueryMaster:
+ - **Sample Image 1**: ![image](https://github.com/user-attachments/assets/a4c38c5d-089c-4308-a5b6-2da1968dbd65)
+ - **Result**:![Screenshot 2024-09-30 020444](https://github.com/user-attachments/assets/16aa960c-9412-420b-8942-2aea6b257cba)
 
 
-7. Future Enhancements
+## Future Enhancements
 a) Live Webcam Capture: Integration of live webcam feed for real-time OCR and question answering.
 b) Support for Additional Languages: Extend OCR capabilities to include more Indian regional languages.
 c) Interactive Voice Q&A: Allow users to ask questions via speech and receive verbal responses, making the application accessible to a wider audience.
 
-8 .Contact
+## Contact
 For any questions or feedback, feel free to reach out via mail: vinayak.bhatia22@spit.ac.in
 
 
