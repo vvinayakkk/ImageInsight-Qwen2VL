@@ -96,6 +96,7 @@ For deployment on a cloud platform, ensure you have a GPU-enabled environment or
 Here are a few examples showcasing the power of VisionQueryMaster:
  ![Screenshot 2024-09-30 212342](https://github.com/user-attachments/assets/df847db8-7306-4cd7-bab9-8770110385b2)
 
+![Screenshot 2024-09-30 214302](https://github.com/user-attachments/assets/7f90e0fe-4623-496c-a46c-5ca8ca4dd94e)
 
 
 
