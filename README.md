@@ -10,7 +10,7 @@ On an average for a low quality image it takes 2-3 minutes for the model to answ
 ## Features
 - **OCR with Dual Language Support:** Our system effectively extracts text from images in both **English and Hindi**, using a powerful pre-trained vision transformer model.
 - **Contextual Question-Answering:** Ask questions about the image, and get meaningful, context-aware answers, such as identifying objects, describing scenes, or solving text-based queries.
-- **Interactive Web Application:** The application is built using Gradio, providing a user-friendly interface for image uploads, text display, and question-asking functionality.
+- **Interactive Web Application:** The application is built using streamlit, providing a user-friendly interface for image uploads, text display, and question-asking functionality.
 - **Dynamic Text Search:** Extracted text can be searched for specific keywords, making the app suitable for a variety of document analysis tasks.
 - **Optimized Image Handling:** Images are resized dynamically to fit within memory limits, ensuring smooth performance even on limited resources.
 
