@@ -15,7 +15,7 @@ On an average for a low quality image it takes 2-3 minutes for the model to answ
 - **Optimized Image Handling:** Images are resized dynamically to fit within memory limits, ensuring smooth performance even on limited resources.
 
 ## Try It Out
-To try out the model, [**Click Here**](https://huggingface.co/spaces/vvinayakkk/fifthtry).
+To try out the model, [**Click Here**](https://huggingface.co/spaces/vvinayakkk/seventhtry).
 
 ## Technical Details
 ### 1. **Model Selection and Implementation**
@@ -94,8 +94,8 @@ For deployment on a cloud platform, ensure you have a GPU-enabled environment or
 
 ## Sample Outputs and Screenshots
 Here are a few examples showcasing the power of VisionQueryMaster:
- - **Sample Image 1**: ![image](https://github.com/user-attachments/assets/a4c38c5d-089c-4308-a5b6-2da1968dbd65)
- - **Result**:![Screenshot 2024-09-30 020444](https://github.com/user-attachments/assets/16aa960c-9412-420b-8942-2aea6b257cba)
+ ![Screenshot 2024-09-30 212342](https://github.com/user-attachments/assets/df847db8-7306-4cd7-bab9-8770110385b2)
+
 
 
 
